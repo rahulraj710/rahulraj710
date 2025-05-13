@@ -1,10 +1,14 @@
-Hello, I'm Rahul Raj, currently pursuing a master's degree at Columbus State University. With over 5 years of professional experience as a software developer, I specialize in Python and Java.
-During my career, I have contributed to various projects, including web applications built with Java and REST APIS based on Django Rest Framework.
-My responsibilities included adding new features, identifying and resolving bugs, as well as mentoring new recruits and training users.
+### Hello, I'm Rahul Raj
+I'm a software engineer with over 6 years of professional experience, and I recently earned a master’s degree from Columbus State University. I specialize in backend development using Java and Python, and have hands-on experience delivering scalable systems and APIs across diverse projects.
 
-Currently, I am expanding my skill set by delving into the following technologies:
-Spring Boot: Enhancing my proficiency in backend development.
-ReactJS: Broadening my skills in frontend development.
-Solidity: Exploring blockchain development.
+## Professional Highlights
+Built and maintained enterprise-grade web applications using Java, Django Rest Framework, and Python.
+Delivered new features, resolved complex bugs, and optimized application performance in production environments.
+Mentored junior engineers and conducted training for new hires and end users.
+Collaborated with cross-functional teams and followed industry best practices using Git, Docker, and CI/CD pipelines.
 
-I'm actively working on adding more projects to my GitHub. Feel free to explore my existing repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities.
+## Currently Expanding My Skills In
+# Spring Boot – to deepen backend microservice development expertise.
+# ReactJS – to build interactive and responsive front-end interfaces.
+
+I’m actively building new projects to apply what I’m learning—many of which will be added here soon. Feel free to explore my repositories, and don’t hesitate to connect if you're interested in collaborating.
